@@ -1,4 +1,4 @@
-package Assunto_01_Outros_Tipos_de_Dados;
+package assunto_01_Outros_Tipos_de_Dados;
 import java.util.Scanner;
 
 

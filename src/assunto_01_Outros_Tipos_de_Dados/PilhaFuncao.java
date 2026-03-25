@@ -1,4 +1,4 @@
-package Assunto_01_Outros_Tipos_de_Dados;
+package assunto_01_Outros_Tipos_de_Dados;
 public class PilhaFuncao {
     public static void main(String[] args) {
         System.out.println("Entrei main");
